@@ -51,7 +51,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/react-ecommerce-app.git
+git clone https://https://github.com/Vishalkondi/e-commerce-project-.git
 cd react-ecommerce-app
 Install dependencies
 
