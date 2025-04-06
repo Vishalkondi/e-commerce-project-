@@ -2,7 +2,7 @@
 A modern and responsive E-Commerce Web Application built using React.js, showcasing a collection of products where users can browse and add items to their cart. Designed with a clean UI and intuitive UX using Bootstrap and custom CSS.
 
 📸 Preview
-![Uploading Screenshot (62).png…]()
+![Screenshot (62)](https://github.com/user-attachments/assets/8cc39daa-48cc-4dcb-99f0-631f47c51c4e)
 
 ✨ Features
 🧾 Product Grid Display
